@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "title": "Sythivo Packages",
+  "packages": [
+    {
+      "host": "Sythivo",
+      "project": "roblox-ObjectWrap"
+    }
+  ]
+}
