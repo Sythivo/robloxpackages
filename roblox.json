@@ -1,0 +1,17 @@
+{
+  "title": "Roblox",
+  "packages": [
+    {
+      "host": "Roblox",
+      "project": "roact"
+    },
+    {
+      "host": "Roblox",
+      "project": "rodux"
+    },
+    {
+      "host": "Roblox",
+      "project": "roact-rodux"
+    }
+  ]
+}
