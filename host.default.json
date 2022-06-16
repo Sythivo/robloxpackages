@@ -2,8 +2,8 @@
   "title": "Sythivo Packages",
   "packages": [
     {
-      "host": "Sythivo",
-      "project": "roblox-ObjectWrap"
+      "author": "Sythivo",
+      "repository": "roblox-ObjectWrap"
     }
   ]
 }
