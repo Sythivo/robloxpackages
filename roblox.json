@@ -2,16 +2,16 @@
   "title": "Roblox",
   "packages": [
     {
-      "host": "Roblox",
-      "project": "roact"
+      "author": "Roblox",
+      "repository": "roact"
     },
     {
-      "host": "Roblox",
-      "project": "rodux"
+      "author": "Roblox",
+      "repository": "rodux"
     },
     {
-      "host": "Roblox",
-      "project": "roact-rodux"
+      "author": "Roblox",
+      "repository": "roact-rodux"
     }
   ]
 }
